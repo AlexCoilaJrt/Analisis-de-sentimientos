@@ -1,0 +1,1561 @@
+{
+    "words": {
+        "feliz": {
+            "score": 2,
+            "emotions": [
+                "alegría",
+                "satisfacción"
+            ]
+        },
+        "alegre": {
+            "score": 2,
+            "emotions": [
+                "alegría"
+            ]
+        },
+        "contento": {
+            "score": 2,
+            "emotions": [
+                "alegría"
+            ]
+        },
+        "genial": {
+            "score": 3,
+            "emotions": [
+                "alegría",
+                "admiración"
+            ]
+        },
+        "excelente": {
+            "score": 3,
+            "emotions": [
+                "alegría",
+                "admiración"
+            ]
+        },
+        "amor": {
+            "score": 3,
+            "emotions": [
+                "amor",
+                "alegría"
+            ]
+        },
+        "amar": {
+            "score": 3,
+            "emotions": [
+                "amor"
+            ]
+        },
+        "encantar": {
+            "score": 3,
+            "emotions": [
+                "amor",
+                "alegría"
+            ]
+        },
+        "maravilloso": {
+            "score": 3,
+            "emotions": [
+                "alegría",
+                "admiración"
+            ]
+        },
+        "fantástico": {
+            "score": 3,
+            "emotions": [
+                "alegría",
+                "admiración"
+            ]
+        },
+        "increíble": {
+            "score": 3,
+            "emotions": [
+                "sorpresa",
+                "alegría"
+            ]
+        },
+        "hermoso": {
+            "score": 2,
+            "emotions": [
+                "amor",
+                "admiración"
+            ]
+        },
+        "bonito": {
+            "score": 1,
+            "emotions": [
+                "amor"
+            ]
+        },
+        "lindo": {
+            "score": 1,
+            "emotions": [
+                "amor"
+            ]
+        },
+        "gracias": {
+            "score": 1,
+            "emotions": [
+                "gratitud"
+            ]
+        },
+        "agradecido": {
+            "score": 2,
+            "emotions": [
+                "gratitud"
+            ]
+        },
+        "éxito": {
+            "score": 2,
+            "emotions": [
+                "alegría",
+                "orgullo"
+            ]
+        },
+        "triunfo": {
+            "score": 2,
+            "emotions": [
+                "alegría",
+                "orgullo"
+            ]
+        },
+        "ganar": {
+            "score": 2,
+            "emotions": [
+                "alegría"
+            ]
+        },
+        "mejor": {
+            "score": 2,
+            "emotions": [
+                "alegría"
+            ]
+        },
+        "perfecto": {
+            "score": 3,
+            "emotions": [
+                "alegría",
+                "satisfacción"
+            ]
+        },
+        "super": {
+            "score": 2,
+            "emotions": [
+                "alegría"
+            ]
+        },
+        "divertido": {
+            "score": 2,
+            "emotions": [
+                "alegría",
+                "diversión"
+            ]
+        },
+        "risa": {
+            "score": 2,
+            "emotions": [
+                "alegría",
+                "diversión"
+            ]
+        },
+        "sonreír": {
+            "score": 2,
+            "emotions": [
+                "alegría"
+            ]
+        },
+        "paz": {
+            "score": 2,
+            "emotions": [
+                "calma",
+                "serenidad"
+            ]
+        },
+        "tranquilo": {
+            "score": 1,
+            "emotions": [
+                "calma"
+            ]
+        },
+        "esperanza": {
+            "score": 2,
+            "emotions": [
+                "esperanza"
+            ]
+        },
+        "fe": {
+            "score": 2,
+            "emotions": [
+                "esperanza"
+            ]
+        },
+        "confianza": {
+            "score": 2,
+            "emotions": [
+                "confianza"
+            ]
+        },
+        "seguro": {
+            "score": 1,
+            "emotions": [
+                "confianza"
+            ]
+        },
+        "fuerte": {
+            "score": 1,
+            "emotions": [
+                "confianza"
+            ]
+        },
+        "valiente": {
+            "score": 2,
+            "emotions": [
+                "confianza",
+                "coraje"
+            ]
+        },
+        "inteligente": {
+            "score": 2,
+            "emotions": [
+                "admiración"
+            ]
+        },
+        "sabio": {
+            "score": 2,
+            "emotions": [
+                "admiración"
+            ]
+        },
+        "creativo": {
+            "score": 2,
+            "emotions": [
+                "admiración"
+            ]
+        },
+        "inspirado": {
+            "score": 2,
+            "emotions": [
+                "inspiración"
+            ]
+        },
+        "motivado": {
+            "score": 2,
+            "emotions": [
+                "inspiración"
+            ]
+        },
+        "apasionado": {
+            "score": 3,
+            "emotions": [
+                "pasión"
+            ]
+        },
+        "entusiasta": {
+            "score": 2,
+            "emotions": [
+                "alegría"
+            ]
+        },
+        "optimista": {
+            "score": 2,
+            "emotions": [
+                "esperanza"
+            ]
+        },
+        "positivo": {
+            "score": 2,
+            "emotions": [
+                "esperanza"
+            ]
+        },
+        "afortunado": {
+            "score": 2,
+            "emotions": [
+                "gratitud"
+            ]
+        },
+        "bendecido": {
+            "score": 3,
+            "emotions": [
+                "gratitud"
+            ]
+        },
+        "agradable": {
+            "score": 1,
+            "emotions": [
+                "alegría"
+            ]
+        },
+        "placer": {
+            "score": 2,
+            "emotions": [
+                "alegría"
+            ]
+        },
+        "satisfacción": {
+            "score": 2,
+            "emotions": [
+                "satisfacción"
+            ]
+        },
+        "orgulloso": {
+            "score": 2,
+            "emotions": [
+                "orgullo"
+            ]
+        },
+        "triste": {
+            "score": -2,
+            "emotions": [
+                "tristeza"
+            ]
+        },
+        "mal": {
+            "score": -1,
+            "emotions": [
+                "tristeza",
+                "disgusto"
+            ]
+        },
+        "malo": {
+            "score": -1,
+            "emotions": [
+                "disgusto"
+            ]
+        },
+        "peor": {
+            "score": -2,
+            "emotions": [
+                "tristeza",
+                "disgusto"
+            ]
+        },
+        "horrible": {
+            "score": -3,
+            "emotions": [
+                "asco",
+                "miedo"
+            ]
+        },
+        "terrible": {
+            "score": -3,
+            "emotions": [
+                "miedo",
+                "tristeza"
+            ]
+        },
+        "odio": {
+            "score": -3,
+            "emotions": [
+                "odio",
+                "ira"
+            ]
+        },
+        "odiar": {
+            "score": -3,
+            "emotions": [
+                "odio",
+                "ira"
+            ]
+        },
+        "detestar": {
+            "score": -3,
+            "emotions": [
+                "odio",
+                "disgusto"
+            ]
+        },
+        "feo": {
+            "score": -1,
+            "emotions": [
+                "disgusto"
+            ]
+        },
+        "dolor": {
+            "score": -2,
+            "emotions": [
+                "tristeza",
+                "dolor"
+            ]
+        },
+        "sufrir": {
+            "score": -3,
+            "emotions": [
+                "tristeza",
+                "dolor"
+            ]
+        },
+        "sufrimiento": {
+            "score": -3,
+            "emotions": [
+                "tristeza",
+                "dolor"
+            ]
+        },
+        "llorar": {
+            "score": -2,
+            "emotions": [
+                "tristeza"
+            ]
+        },
+        "miedo": {
+            "score": -2,
+            "emotions": [
+                "miedo"
+            ]
+        },
+        "asustado": {
+            "score": -2,
+            "emotions": [
+                "miedo"
+            ]
+        },
+        "terror": {
+            "score": -3,
+            "emotions": [
+                "miedo",
+                "terror"
+            ]
+        },
+        "pánico": {
+            "score": -3,
+            "emotions": [
+                "miedo",
+                "terror"
+            ]
+        },
+        "enojado": {
+            "score": -2,
+            "emotions": [
+                "ira"
+            ]
+        },
+        "ira": {
+            "score": -3,
+            "emotions": [
+                "ira"
+            ]
+        },
+        "furia": {
+            "score": -3,
+            "emotions": [
+                "ira"
+            ]
+        },
+        "molesto": {
+            "score": -1,
+            "emotions": [
+                "ira",
+                "disgusto"
+            ]
+        },
+        "enfadado": {
+            "score": -2,
+            "emotions": [
+                "ira"
+            ]
+        },
+        "frustrado": {
+            "score": -2,
+            "emotions": [
+                "frustración",
+                "ira"
+            ]
+        },
+        "decepcionado": {
+            "score": -2,
+            "emotions": [
+                "tristeza",
+                "decepción"
+            ]
+        },
+        "fracaso": {
+            "score": -3,
+            "emotions": [
+                "tristeza",
+                "vergüenza"
+            ]
+        },
+        "perder": {
+            "score": -2,
+            "emotions": [
+                "tristeza"
+            ]
+        },
+        "culpa": {
+            "score": -2,
+            "emotions": [
+                "culpa",
+                "tristeza"
+            ]
+        },
+        "vergüenza": {
+            "score": -2,
+            "emotions": [
+                "vergüenza"
+            ]
+        },
+        "ansiedad": {
+            "score": -2,
+            "emotions": [
+                "ansiedad",
+                "miedo"
+            ]
+        },
+        "estrés": {
+            "score": -2,
+            "emotions": [
+                "estrés",
+                "ansiedad"
+            ]
+        },
+        "preocupado": {
+            "score": -1,
+            "emotions": [
+                "ansiedad"
+            ]
+        },
+        "nervioso": {
+            "score": -1,
+            "emotions": [
+                "ansiedad"
+            ]
+        },
+        "cansado": {
+            "score": -1,
+            "emotions": [
+                "cansancio"
+            ]
+        },
+        "agotado": {
+            "score": -2,
+            "emotions": [
+                "cansancio"
+            ]
+        },
+        "aburrido": {
+            "score": -1,
+            "emotions": [
+                "aburrimiento"
+            ]
+        },
+        "solo": {
+            "score": -1,
+            "emotions": [
+                "soledad",
+                "tristeza"
+            ]
+        },
+        "soledad": {
+            "score": -2,
+            "emotions": [
+                "soledad",
+                "tristeza"
+            ]
+        },
+        "vacío": {
+            "score": -2,
+            "emotions": [
+                "soledad",
+                "tristeza"
+            ]
+        },
+        "muerte": {
+            "score": -3,
+            "emotions": [
+                "tristeza",
+                "miedo"
+            ]
+        },
+        "morir": {
+            "score": -3,
+            "emotions": [
+                "tristeza",
+                "miedo"
+            ]
+        },
+        "matar": {
+            "score": -3,
+            "emotions": [
+                "ira",
+                "miedo"
+            ]
+        },
+        "enfermo": {
+            "score": -2,
+            "emotions": [
+                "tristeza",
+                "miedo"
+            ]
+        },
+        "enfermedad": {
+            "score": -2,
+            "emotions": [
+                "tristeza",
+                "miedo"
+            ]
+        },
+        "mentira": {
+            "score": -2,
+            "emotions": [
+                "ira",
+                "decepción"
+            ]
+        },
+        "engaño": {
+            "score": -3,
+            "emotions": [
+                "ira",
+                "decepción"
+            ]
+        },
+        "traición": {
+            "score": -3,
+            "emotions": [
+                "ira",
+                "tristeza"
+            ]
+        },
+        "injusto": {
+            "score": -2,
+            "emotions": [
+                "ira"
+            ]
+        },
+        "cruel": {
+            "score": -3,
+            "emotions": [
+                "ira",
+                "disgusto"
+            ]
+        },
+        "violencia": {
+            "score": -3,
+            "emotions": [
+                "ira",
+                "miedo"
+            ]
+        },
+        "guerra": {
+            "score": -3,
+            "emotions": [
+                "miedo",
+                "tristeza"
+            ]
+        },
+        "problema": {
+            "score": -1,
+            "emotions": [
+                "preocupación"
+            ]
+        },
+        "error": {
+            "score": -1,
+            "emotions": [
+                "culpa",
+                "vergüenza"
+            ]
+        },
+        "defecto": {
+            "score": -1,
+            "emotions": [
+                "vergüenza"
+            ]
+        },
+        "negativo": {
+            "score": -2,
+            "emotions": [
+                "tristeza"
+            ]
+        },
+        "pesimista": {
+            "score": -2,
+            "emotions": [
+                "tristeza"
+            ]
+        },
+        "deprimido": {
+            "score": -3,
+            "emotions": [
+                "depresión",
+                "tristeza"
+            ]
+        },
+        "desesperado": {
+            "score": -3,
+            "emotions": [
+                "desesperación",
+                "ansiedad"
+            ]
+        },
+        "ansioso": {
+            "score": -2,
+            "emotions": [
+                "ansiedad"
+            ]
+        },
+        "estresado": {
+            "score": -2,
+            "emotions": [
+                "estrés"
+            ]
+        },
+        "furioso": {
+            "score": -3,
+            "emotions": [
+                "ira"
+            ]
+        },
+        "irritado": {
+            "score": -2,
+            "emotions": [
+                "ira"
+            ]
+        },
+        "indignado": {
+            "score": -2,
+            "emotions": [
+                "ira"
+            ]
+        },
+        "herido": {
+            "score": -2,
+            "emotions": [
+                "tristeza",
+                "dolor"
+            ]
+        },
+        "angustia": {
+            "score": -3,
+            "emotions": [
+                "angustia",
+                "ansiedad"
+            ]
+        },
+        "asco": {
+            "score": -3,
+            "emotions": [
+                "asco"
+            ]
+        },
+        "repugnancia": {
+            "score": -3,
+            "emotions": [
+                "asco"
+            ]
+        },
+        "doler": {
+            "score": -2,
+            "emotions": [
+                "dolor"
+            ]
+        },
+        "duele": {
+            "score": -2,
+            "emotions": [
+                "dolor"
+            ]
+        },
+        "molestar": {
+            "score": -1,
+            "emotions": [
+                "ira"
+            ]
+        },
+        "fastidiar": {
+            "score": -1,
+            "emotions": [
+                "ira"
+            ]
+        },
+        "fallar": {
+            "score": -2,
+            "emotions": [
+                "tristeza",
+                "culpa"
+            ]
+        },
+        "fracasar": {
+            "score": -2,
+            "emotions": [
+                "tristeza",
+                "culpa"
+            ]
+        },
+        "temer": {
+            "score": -2,
+            "emotions": [
+                "miedo"
+            ]
+        },
+        "asustar": {
+            "score": -2,
+            "emotions": [
+                "miedo"
+            ]
+        },
+        "brillar": {
+            "score": 2,
+            "emotions": [
+                "alegría",
+                "inspiración"
+            ]
+        },
+        "desolado": {
+            "score": -3,
+            "emotions": [
+                "tristeza",
+                "soledad"
+            ]
+        },
+        "abatido": {
+            "score": -2,
+            "emotions": [
+                "tristeza",
+                "cansancio"
+            ]
+        },
+        "melancólico": {
+            "score": -1,
+            "emotions": [
+                "tristeza",
+                "nostalgia"
+            ]
+        },
+        "pesadumbre": {
+            "score": -2,
+            "emotions": [
+                "tristeza"
+            ]
+        },
+        "desánimo": {
+            "score": -2,
+            "emotions": [
+                "tristeza",
+                "apatía"
+            ]
+        },
+        "infeliz": {
+            "score": -3,
+            "emotions": [
+                "tristeza"
+            ]
+        },
+        "miserable": {
+            "score": -3,
+            "emotions": [
+                "tristeza",
+                "asco"
+            ]
+        },
+        "llanto": {
+            "score": -2,
+            "emotions": [
+                "tristeza"
+            ]
+        },
+        "sollozar": {
+            "score": -3,
+            "emotions": [
+                "tristeza"
+            ]
+        },
+        "lágrima": {
+            "score": -2,
+            "emotions": [
+                "tristeza"
+            ]
+        },
+        "desesperanza": {
+            "score": -3,
+            "emotions": [
+                "tristeza",
+                "desesperación"
+            ]
+        },
+        "inútil": {
+            "score": -3,
+            "emotions": [
+                "tristeza",
+                "vergüenza",
+                "culpa"
+            ]
+        },
+        "inservible": {
+            "score": -3,
+            "emotions": [
+                "tristeza",
+                "vergüenza"
+            ]
+        },
+        "carga": {
+            "score": -2,
+            "emotions": [
+                "culpa",
+                "tristeza"
+            ]
+        },
+        "agobio": {
+            "score": -2,
+            "emotions": [
+                "ansiedad",
+                "estrés"
+            ]
+        },
+        "abrumado": {
+            "score": -2,
+            "emotions": [
+                "ansiedad",
+                "estrés"
+            ]
+        },
+        "tensión": {
+            "score": -1,
+            "emotions": [
+                "ansiedad",
+                "estrés"
+            ]
+        },
+        "inquietud": {
+            "score": -1,
+            "emotions": [
+                "ansiedad"
+            ]
+        },
+        "taquicardia": {
+            "score": -2,
+            "emotions": [
+                "ansiedad",
+                "miedo"
+            ]
+        },
+        "asfixia": {
+            "score": -3,
+            "emotions": [
+                "ansiedad",
+                "miedo"
+            ]
+        },
+        "temblor": {
+            "score": -2,
+            "emotions": [
+                "miedo",
+                "ansiedad"
+            ]
+        },
+        "inseguridad": {
+            "score": -2,
+            "emotions": [
+                "miedo",
+                "ansiedad"
+            ]
+        },
+        "incertidumbre": {
+            "score": -1,
+            "emotions": [
+                "ansiedad",
+                "miedo"
+            ]
+        },
+        "cólera": {
+            "score": -3,
+            "emotions": [
+                "ira"
+            ]
+        },
+        "rencor": {
+            "score": -2,
+            "emotions": [
+                "ira",
+                "odio"
+            ]
+        },
+        "resentimiento": {
+            "score": -2,
+            "emotions": [
+                "ira",
+                "tristeza"
+            ]
+        },
+        "hostil": {
+            "score": -2,
+            "emotions": [
+                "ira"
+            ]
+        },
+        "agresivo": {
+            "score": -2,
+            "emotions": [
+                "ira"
+            ]
+        },
+        "impaciencia": {
+            "score": -1,
+            "emotions": [
+                "ira",
+                "ansiedad"
+            ]
+        },
+        "apatía": {
+            "score": -2,
+            "emotions": [
+                "tristeza",
+                "aburrimiento"
+            ]
+        },
+        "desgana": {
+            "score": -2,
+            "emotions": [
+                "tristeza",
+                "apatía"
+            ]
+        },
+        "indiferencia": {
+            "score": -1,
+            "emotions": [
+                "tristeza",
+                "apatía"
+            ]
+        },
+        "aislado": {
+            "score": -2,
+            "emotions": [
+                "soledad",
+                "tristeza"
+            ]
+        },
+        "abandonado": {
+            "score": -3,
+            "emotions": [
+                "soledad",
+                "tristeza"
+            ]
+        },
+        "rechazado": {
+            "score": -3,
+            "emotions": [
+                "tristeza",
+                "vergüenza"
+            ]
+        },
+        "humillado": {
+            "score": -3,
+            "emotions": [
+                "vergüenza",
+                "tristeza"
+            ]
+        },
+        "inferior": {
+            "score": -2,
+            "emotions": [
+                "tristeza",
+                "vergüenza"
+            ]
+        },
+        "incapaz": {
+            "score": -2,
+            "emotions": [
+                "tristeza",
+                "frustración"
+            ]
+        },
+        "débil": {
+            "score": -2,
+            "emotions": [
+                "tristeza",
+                "miedo"
+            ]
+        },
+        "vulnerable": {
+            "score": -1,
+            "emotions": [
+                "miedo",
+                "ansiedad"
+            ]
+        },
+        "frágil": {
+            "score": -1,
+            "emotions": [
+                "miedo",
+                "tristeza"
+            ]
+        },
+        "roto": {
+            "score": -3,
+            "emotions": [
+                "tristeza",
+                "dolor"
+            ]
+        },
+        "destrozado": {
+            "score": -3,
+            "emotions": [
+                "tristeza",
+                "dolor"
+            ]
+        },
+        "hundido": {
+            "score": -3,
+            "emotions": [
+                "tristeza",
+                "depresión"
+            ]
+        },
+        "oscuro": {
+            "score": -2,
+            "emotions": [
+                "miedo",
+                "tristeza"
+            ]
+        },
+        "gris": {
+            "score": -1,
+            "emotions": [
+                "tristeza",
+                "aburrimiento"
+            ]
+        },
+        "negro": {
+            "score": -1,
+            "emotions": [
+                "tristeza",
+                "miedo"
+            ]
+        },
+        "pesadilla": {
+            "score": -3,
+            "emotions": [
+                "miedo",
+                "terror"
+            ]
+        },
+        "infierno": {
+            "score": -3,
+            "emotions": [
+                "sufrimiento",
+                "dolor"
+            ]
+        },
+        "tortura": {
+            "score": -3,
+            "emotions": [
+                "sufrimiento",
+                "dolor"
+            ]
+        },
+        "castigo": {
+            "score": -2,
+            "emotions": [
+                "culpa",
+                "dolor"
+            ]
+        },
+        "pecado": {
+            "score": -2,
+            "emotions": [
+                "culpa",
+                "vergüenza"
+            ]
+        },
+        "remordimiento": {
+            "score": -2,
+            "emotions": [
+                "culpa",
+                "tristeza"
+            ]
+        },
+        "arrepentido": {
+            "score": -2,
+            "emotions": [
+                "culpa",
+                "tristeza"
+            ]
+        },
+        "perdido": {
+            "score": -2,
+            "emotions": [
+                "miedo",
+                "tristeza"
+            ]
+        },
+        "confuso": {
+            "score": -1,
+            "emotions": [
+                "ansiedad",
+                "confusión"
+            ]
+        },
+        "desorientado": {
+            "score": -1,
+            "emotions": [
+                "ansiedad",
+                "confusión"
+            ]
+        },
+        "mareado": {
+            "score": -1,
+            "emotions": [
+                "ansiedad",
+                "malestar"
+            ]
+        },
+        "náusea": {
+            "score": -2,
+            "emotions": [
+                "asco",
+                "ansiedad"
+            ]
+        },
+        "vomitar": {
+            "score": -2,
+            "emotions": [
+                "asco",
+                "malestar"
+            ]
+        },
+        "temblando": {
+            "score": -2,
+            "emotions": [
+                "miedo",
+                "ansiedad"
+            ]
+        },
+        "sudando": {
+            "score": -1,
+            "emotions": [
+                "ansiedad",
+                "nerviosismo"
+            ]
+        },
+        "llorando": {
+            "score": -2,
+            "emotions": [
+                "tristeza"
+            ]
+        },
+        "gritar": {
+            "score": -2,
+            "emotions": [
+                "ira",
+                "miedo"
+            ]
+        },
+        "golpear": {
+            "score": -2,
+            "emotions": [
+                "ira",
+                "violencia"
+            ]
+        },
+        "insultar": {
+            "score": -2,
+            "emotions": [
+                "ira",
+                "violencia"
+            ]
+        },
+        "amenazar": {
+            "score": -3,
+            "emotions": [
+                "ira",
+                "miedo"
+            ]
+        },
+        "acosar": {
+            "score": -3,
+            "emotions": [
+                "miedo",
+                "ira"
+            ]
+        },
+        "abusar": {
+            "score": -3,
+            "emotions": [
+                "miedo",
+                "ira"
+            ]
+        },
+        "violar": {
+            "score": -3,
+            "emotions": [
+                "miedo",
+                "ira",
+                "dolor"
+            ]
+        },
+        "suicidio": {
+            "score": -5,
+            "emotions": [
+                "desesperación",
+                "tristeza"
+            ]
+        },
+        "suicida": {
+            "score": -5,
+            "emotions": [
+                "desesperación",
+                "tristeza"
+            ]
+        },
+        "autolesión": {
+            "score": -4,
+            "emotions": [
+                "dolor",
+                "tristeza"
+            ]
+        },
+        "cortarse": {
+            "score": -3,
+            "emotions": [
+                "dolor",
+                "tristeza"
+            ]
+        },
+        "sangre": {
+            "score": -2,
+            "emotions": [
+                "miedo",
+                "dolor"
+            ]
+        },
+        "herida": {
+            "score": -2,
+            "emotions": [
+                "dolor",
+                "tristeza"
+            ]
+        },
+        "cicatriz": {
+            "score": -1,
+            "emotions": [
+                "dolor",
+                "recuerdo"
+            ]
+        },
+        "trauma": {
+            "score": -3,
+            "emotions": [
+                "miedo",
+                "dolor"
+            ]
+        },
+        "trastorno": {
+            "score": -2,
+            "emotions": [
+                "preocupación",
+                "enfermedad"
+            ]
+        },
+        "depresión": {
+            "score": -3,
+            "emotions": [
+                "tristeza",
+                "enfermedad"
+            ]
+        },
+
+        "celebrar": {
+            "score": 2,
+            "emotions": [
+                "alegría",
+                "celebración"
+            ]
+        },
+        "felicidad": {
+            "score": 3,
+            "emotions": [
+                "felicidad"
+            ]
+        },
+        "alegría": {
+            "score": 2,
+            "emotions": [
+                "alegría"
+            ]
+        },
+        "gozo": {
+            "score": 3,
+            "emotions": [
+                "alegría"
+            ]
+        },
+        "júbilo": {
+            "score": 3,
+            "emotions": [
+                "alegría"
+            ]
+        },
+        "euforia": {
+            "score": 3,
+            "emotions": [
+                "alegría"
+            ]
+        },
+        "disfrutar": {
+            "score": 2,
+            "emotions": [
+                "alegría"
+            ]
+        },
+        "radiante": {
+            "score": 3,
+            "emotions": [
+                "alegría"
+            ]
+        },
+        "melancolía": {
+            "score": -1,
+            "emotions": [
+                "tristeza",
+                "nostalgia"
+            ]
+        },
+        "duelo": {
+            "score": -3,
+            "emotions": [
+                "tristeza"
+            ]
+        },
+        "luto": {
+            "score": -3,
+            "emotions": [
+                "tristeza"
+            ]
+        },
+        "horror": {
+            "score": -3,
+            "emotions": [
+                "miedo",
+                "asco"
+            ]
+        },
+        "espanto": {
+            "score": -3,
+            "emotions": [
+                "miedo"
+            ]
+        },
+        "inquieto": {
+            "score": -1,
+            "emotions": [
+                "ansiedad"
+            ]
+        },
+        "sorpresa": {
+            "score": 1,
+            "emotions": [
+                "sorpresa"
+            ]
+        },
+        "asombroso": {
+            "score": 2,
+            "emotions": [
+                "sorpresa",
+                "admiración"
+            ]
+        },
+        "inesperado": {
+            "score": 0,
+            "emotions": [
+                "sorpresa"
+            ]
+        },
+        "shock": {
+            "score": -1,
+            "emotions": [
+                "sorpresa",
+                "miedo"
+            ]
+        },
+        "sorprendido": {
+            "score": 0,
+            "emotions": [
+                "sorpresa"
+            ]
+        },
+        "extraño": {
+            "score": -1,
+            "emotions": [
+                "sorpresa",
+                "confusión"
+            ]
+        },
+        "raro": {
+            "score": -1,
+            "emotions": [
+                "sorpresa",
+                "confusión"
+            ]
+        },
+        "milagro": {
+            "score": 3,
+            "emotions": [
+                "sorpresa",
+                "alegría"
+            ]
+        },
+        "súbito": {
+            "score": 0,
+            "emotions": [
+                "sorpresa"
+            ]
+        },
+        "querer": {
+            "score": 2,
+            "emotions": [
+                "amor"
+            ]
+        },
+        "adorar": {
+            "score": 3,
+            "emotions": [
+                "amor",
+                "admiración"
+            ]
+        },
+        "cariño": {
+            "score": 2,
+            "emotions": [
+                "amor"
+            ]
+        },
+        "beso": {
+            "score": 2,
+            "emotions": [
+                "amor"
+            ]
+        },
+        "abrazo": {
+            "score": 2,
+            "emotions": [
+                "amor",
+                "consuelo"
+            ]
+        },
+        "pasión": {
+            "score": 3,
+            "emotions": [
+                "amor",
+                "pasión"
+            ]
+        },
+        "enamorado": {
+            "score": 3,
+            "emotions": [
+                "amor"
+            ]
+        },
+        "ternura": {
+            "score": 2,
+            "emotions": [
+                "amor"
+            ]
+        },
+        "afecto": {
+            "score": 2,
+            "emotions": [
+                "amor"
+            ]
+        }
+    }
+}

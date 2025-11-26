@@ -1,0 +1,355 @@
+{
+    "patterns": [
+        {
+            "pattern": "me siento (muy |bastante |extremadamente |un poco |tan )?([a-zñáéíóú]+)",
+            "type": "direct_emotion",
+            "target_group": 2,
+            "intensity_group": 1
+        },
+        {
+            "pattern": "estoy (muy |bastante |extremadamente |un poco |tan )?([a-zñáéíóú]+)",
+            "type": "direct_state",
+            "target_group": 2,
+            "intensity_group": 1
+        },
+        {
+            "pattern": "no puedo m[aá]s",
+            "type": "phrase",
+            "emotion": "agotamiento",
+            "score": -3
+        },
+        {
+            "pattern": "quiero morirme?",
+            "type": "phrase",
+            "emotion": "desesperación",
+            "score": -5,
+            "alert": true
+        },
+        {
+            "pattern": "necesito ayuda",
+            "type": "phrase",
+            "emotion": "necesidad_apoyo",
+            "score": -1
+        },
+        {
+            "pattern": "tengo miedo",
+            "type": "phrase",
+            "emotion": "miedo",
+            "score": -2
+        },
+        {
+            "pattern": "me duele el alma",
+            "type": "phrase",
+            "emotion": "tristeza_profunda",
+            "score": -4
+        },
+        {
+            "pattern": "no valgo nada",
+            "type": "phrase",
+            "emotion": "baja_autoestima",
+            "score": -3
+        },
+        {
+            "pattern": "todo me sale mal",
+            "type": "phrase",
+            "emotion": "frustración",
+            "score": -2
+        },
+        {
+            "pattern": "estoy de baj[oó]n",
+            "type": "phrase",
+            "emotion": "tristeza",
+            "score": -2
+        },
+        {
+            "pattern": "estoy bajo de moral",
+            "type": "phrase",
+            "emotion": "tristeza",
+            "score": -2
+        },
+        {
+            "pattern": "estoy en horas bajas",
+            "type": "phrase",
+            "emotion": "tristeza",
+            "score": -2
+        },
+        {
+            "pattern": "estoy hecho polvo",
+            "type": "phrase",
+            "emotion": "agotamiento",
+            "score": -3
+        },
+        {
+            "pattern": "estoy con el coraz[oó]n roto",
+            "type": "phrase",
+            "emotion": "tristeza_profunda",
+            "score": -4
+        },
+        {
+            "pattern": "se me encoge el coraz[oó]n",
+            "type": "phrase",
+            "emotion": "tristeza",
+            "score": -2
+        },
+        {
+            "pattern": "me rompe el alma",
+            "type": "phrase",
+            "emotion": "tristeza_profunda",
+            "score": -3
+        },
+        {
+            "pattern": "me parte el alma",
+            "type": "phrase",
+            "emotion": "tristeza_profunda",
+            "score": -3
+        },
+        {
+            "pattern": "se me hace un nudo en la garganta",
+            "type": "phrase",
+            "emotion": "tristeza",
+            "score": -2
+        },
+        {
+            "pattern": "se me cae el alma a los pies",
+            "type": "phrase",
+            "emotion": "desesperanza",
+            "score": -3
+        },
+        {
+            "pattern": "no tengo [aá]nimo para nada",
+            "type": "phrase",
+            "emotion": "apatía",
+            "score": -2
+        },
+        {
+            "pattern": "tengo un nudo en el est[oó]mago",
+            "type": "phrase",
+            "emotion": "ansiedad",
+            "score": -2
+        },
+        {
+            "pattern": "estoy con los nervios de punta",
+            "type": "phrase",
+            "emotion": "ansiedad",
+            "score": -2
+        },
+        {
+            "pattern": "tengo el coraz[oó]n acelerado",
+            "type": "phrase",
+            "emotion": "ansiedad",
+            "score": -2
+        },
+        {
+            "pattern": "estoy bajo mucha presi[oó]n",
+            "type": "phrase",
+            "emotion": "estrés",
+            "score": -2
+        },
+        {
+            "pattern": "estoy saturado",
+            "type": "phrase",
+            "emotion": "estrés",
+            "score": -2
+        },
+        {
+            "pattern": "no doy abasto",
+            "type": "phrase",
+            "emotion": "estrés",
+            "score": -2
+        },
+        {
+            "pattern": "estoy quemado",
+            "type": "phrase",
+            "emotion": "burnout",
+            "score": -3
+        },
+        {
+            "pattern": "esto me supera",
+            "type": "phrase",
+            "emotion": "abrumado",
+            "score": -2
+        },
+        {
+            "pattern": "necesito desconectar",
+            "type": "phrase",
+            "emotion": "estrés",
+            "score": -1
+        },
+        {
+            "pattern": "estoy hasta las narices",
+            "type": "phrase",
+            "emotion": "ira",
+            "score": -2
+        },
+        {
+            "pattern": "estoy hasta el gorro",
+            "type": "phrase",
+            "emotion": "ira",
+            "score": -2
+        },
+        {
+            "pattern": "estoy hasta la coronilla",
+            "type": "phrase",
+            "emotion": "ira",
+            "score": -2
+        },
+        {
+            "pattern": "no aguanto m[aá]s",
+            "type": "phrase",
+            "emotion": "frustración",
+            "score": -2
+        },
+        {
+            "pattern": "me saca de quicio",
+            "type": "phrase",
+            "emotion": "ira",
+            "score": -2
+        },
+        {
+            "pattern": "me saca de mis casillas",
+            "type": "phrase",
+            "emotion": "ira",
+            "score": -2
+        },
+        {
+            "pattern": "me pone de los nervios",
+            "type": "phrase",
+            "emotion": "ira",
+            "score": -2
+        },
+        {
+            "pattern": "me da rabia",
+            "type": "phrase",
+            "emotion": "ira",
+            "score": -2
+        },
+        {
+            "pattern": "estoy a punto de explotar",
+            "type": "phrase",
+            "emotion": "ira",
+            "score": -3
+        },
+        {
+            "pattern": "estoy que me subo por las paredes",
+            "type": "phrase",
+            "emotion": "ira",
+            "score": -3
+        },
+        {
+            "pattern": "qu[eé] bien",
+            "type": "phrase",
+            "emotion": "alegría",
+            "score": 2
+        },
+        {
+            "pattern": "qu[eé] maravilla",
+            "type": "phrase",
+            "emotion": "alegría",
+            "score": 3
+        },
+        {
+            "pattern": "qu[eé] suerte",
+            "type": "phrase",
+            "emotion": "alegría",
+            "score": 2
+        },
+        {
+            "pattern": "cu[aá]nto me alegro",
+            "type": "phrase",
+            "emotion": "alegría",
+            "score": 2
+        },
+        {
+            "pattern": "me alegro much[ií]simo",
+            "type": "phrase",
+            "emotion": "alegría",
+            "score": 3
+        },
+        {
+            "pattern": "qu[eé] buena noticia",
+            "type": "phrase",
+            "emotion": "alegría",
+            "score": 2
+        },
+        {
+            "pattern": "estoy en las nubes",
+            "type": "phrase",
+            "emotion": "alegría",
+            "score": 3
+        },
+        {
+            "pattern": "no quepo en m[ií] de la felicidad",
+            "type": "phrase",
+            "emotion": "felicidad",
+            "score": 3
+        },
+        {
+            "pattern": "doy saltos de alegr[ií]a",
+            "type": "phrase",
+            "emotion": "alegría",
+            "score": 3
+        },
+        {
+            "pattern": "salt[eé] de alegr[ií]a",
+            "type": "phrase",
+            "emotion": "alegría",
+            "score": 3
+        },
+        {
+            "pattern": "estoy como unas casta[ñn]uelas",
+            "type": "phrase",
+            "emotion": "alegría",
+            "score": 2
+        },
+        {
+            "pattern": "m[aá]s feliz que una perdiz",
+            "type": "phrase",
+            "emotion": "felicidad",
+            "score": 3
+        },
+        {
+            "pattern": "me llena de alegr[ií]a",
+            "type": "phrase",
+            "emotion": "alegría",
+            "score": 2
+        },
+        {
+            "pattern": "me siento como pez en el agua",
+            "type": "phrase",
+            "emotion": "alegría",
+            "score": 2
+        }
+    ],
+    "modifiers": {
+        "muy": 1.5,
+        "mucho": 1.5,
+        "bastante": 1.3,
+        "tan": 1.3,
+        "sumamente": 1.8,
+        "extremadamente": 2.0,
+        "realmente": 1.3,
+        "totalmente": 1.5,
+        "absolutamente": 1.5,
+        "profunda": 1.5,
+        "profundo": 1.5,
+        "tremendo": 1.5,
+        "gran": 1.3,
+        "grande": 1.3,
+        "poco": 0.5,
+        "algo": 0.7,
+        "apenas": 0.5,
+        "casi": 0.8,
+        "menos": 0.5,
+        "ligeramente": 0.8
+    },
+    "negations": [
+        "no",
+        "nunca",
+        "jamás",
+        "tampoco",
+        "ni",
+        "sin",
+        "nadie",
+        "nada"
+    ]
+}

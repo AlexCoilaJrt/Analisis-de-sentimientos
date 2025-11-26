@@ -1,0 +1,58 @@
+{
+  "overall": {
+    "accuracy": 1.0,
+    "test_samples": 600
+  },
+  "per_class": {
+    "Alegría": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 150
+    },
+    "Tristeza": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 150
+    },
+    "Ira": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 150
+    },
+    "Miedo": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 150
+    }
+  },
+  "confusion_matrix": [
+    [
+      150,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      150,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      150,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      150
+    ]
+  ]
+}
